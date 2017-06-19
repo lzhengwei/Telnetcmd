@@ -1,0 +1,16 @@
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\bin\Debug\telnetcmd.exe
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\bin\Debug\telnetcmd.pdb
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\obj\Debug\telnetcmd.Form1.resources
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\obj\Debug\telnetcmd.Properties.Resources.resources
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\obj\Debug\telnetcmd.csproj.GenerateResource.Cache
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\obj\Debug\telnetcmd.exe
+C:\Users\zhengwei\AppData\Local\Temporary Projects\telnetcmd\obj\Debug\telnetcmd.pdb
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\obj\Debug\telnetcmd.exe
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\obj\Debug\telnetcmd.pdb
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\bin\Debug\telnetcmd.exe
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\bin\Debug\telnetcmd.pdb
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\obj\Debug\telnetcmd.Form1.resources
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\obj\Debug\telnetcmd.Properties.Resources.resources
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\obj\Debug\telnetcmd.csproj.GenerateResource.Cache
+D:\zhengwei\資訊安全\telnetcmd\telnetcmd\obj\Debug\telnetcmd.csprojResolveAssemblyReference.cache
